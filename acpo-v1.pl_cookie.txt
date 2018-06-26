@@ -1,0 +1,2 @@
+#LWP-Cookies-1.0
+Set-Cookie3: NSC_W.HMJEF.BDQP.80=ffffffff0929bd1045525d5f4f58455e445a4a423660; path="/"; domain=www.acpo.presscentre.com; path_spec; expires="2014-06-28 13:56:27Z"; httponly; version=0
